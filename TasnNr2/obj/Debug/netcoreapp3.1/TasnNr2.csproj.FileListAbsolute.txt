@@ -1,0 +1,13 @@
+C:\Users\dawid\source\repos\TasnNr2\TasnNr2\bin\Debug\netcoreapp3.1\TasnNr2.exe
+C:\Users\dawid\source\repos\TasnNr2\TasnNr2\bin\Debug\netcoreapp3.1\TasnNr2.deps.json
+C:\Users\dawid\source\repos\TasnNr2\TasnNr2\bin\Debug\netcoreapp3.1\TasnNr2.runtimeconfig.json
+C:\Users\dawid\source\repos\TasnNr2\TasnNr2\bin\Debug\netcoreapp3.1\TasnNr2.runtimeconfig.dev.json
+C:\Users\dawid\source\repos\TasnNr2\TasnNr2\bin\Debug\netcoreapp3.1\TasnNr2.dll
+C:\Users\dawid\source\repos\TasnNr2\TasnNr2\bin\Debug\netcoreapp3.1\TasnNr2.pdb
+C:\Users\dawid\source\repos\TasnNr2\TasnNr2\obj\Debug\netcoreapp3.1\TasnNr2.csprojAssemblyReference.cache
+C:\Users\dawid\source\repos\TasnNr2\TasnNr2\obj\Debug\netcoreapp3.1\TasnNr2.AssemblyInfoInputs.cache
+C:\Users\dawid\source\repos\TasnNr2\TasnNr2\obj\Debug\netcoreapp3.1\TasnNr2.AssemblyInfo.cs
+C:\Users\dawid\source\repos\TasnNr2\TasnNr2\obj\Debug\netcoreapp3.1\TasnNr2.csproj.CoreCompileInputs.cache
+C:\Users\dawid\source\repos\TasnNr2\TasnNr2\obj\Debug\netcoreapp3.1\TasnNr2.dll
+C:\Users\dawid\source\repos\TasnNr2\TasnNr2\obj\Debug\netcoreapp3.1\TasnNr2.pdb
+C:\Users\dawid\source\repos\TasnNr2\TasnNr2\obj\Debug\netcoreapp3.1\TasnNr2.genruntimeconfig.cache
